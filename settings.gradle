@@ -1,0 +1,2 @@
+include ':app', ':myusblibrary_'
+project(':myusblibrary_').projectDir = new File('myusblibrary')
